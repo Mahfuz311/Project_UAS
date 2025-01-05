@@ -1,8 +1,8 @@
 # DAFTAR ISI
-============
-- [
 
-
+- [PROJECT UAS](#project-uas)
+- [KESIMPULAN](#kesimpulan)
+- [LINK YOUTUBE](#link-youtube)
 
 # PROJECT UAS
 ## CODE PROGRAM PENGELOLAAN DATA SEDERHANA
@@ -48,4 +48,6 @@ File utama yang mengintegrasikan modul data, view, dan process.
   * Process mengelola alur proses berdasarkan input dari pengguna.
 
 
+
+# KESIMPULAN
 
