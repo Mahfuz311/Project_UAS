@@ -40,4 +40,12 @@ Menghubungkan Data dan View. Bertanggung jawab untuk memproses logika program, v
 
 
 
-#### ALUR
+#### Alur Program main
+File utama yang mengintegrasikan modul data, view, dan process.
+
+* Integrasi Modul:
+  * Data, View, dan Process diimport dan dihubungkan.
+  * Process mengelola alur proses berdasarkan input dari pengguna.
+
+
+
