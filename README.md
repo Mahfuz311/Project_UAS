@@ -10,8 +10,8 @@
 #### CLASS DATA
 Bertanggung jawab untuk mengelola data, seperti menyimpan dan mengambil data.
 * Komponen Utama:
- * ```add_record(name, age)```: Menambahkan data ke dalam daftar.
- * ```get_all_records()```: Mengambil semua data untuk ditampilkan.
+  * ```add_record(name, age)```: Menambahkan data ke dalam daftar.
+  * ```get_all_records()```: Mengambil semua data untuk ditampilkan.
 * Keuntungan: Kelas ini dapat diperluas untuk mendukung berbagai operasi data tanpa mengubah modul lain.
 
 
@@ -26,3 +26,18 @@ Bertugas untuk menangani semua interaksi dengan pengguna, termasuk menampilkan m
   * ```show_error(message)```: Menampilkan pesan error.
   * ```show_table(data)```: Menampilkan data dalam format tabel.
 * Keunggulan: Memisahkan logika antarmuka dengan logika data dan proses.
+
+
+
+### STEP 3: CLASS PROCESS
+#### CLASS PROCES
+Menghubungkan Data dan View. Bertanggung jawab untuk memproses logika program, validasi input, dan melakukan operasi utama seperti menambah atau menampilkan data.
+
+* Komponen Utama:
+  * ```add_data()```: Meminta input, memvalidasi, dan menyimpan data.
+  * ```show_data()```: Mengambil data dari Data dan menampilkan melalui View.
+* Keunggulan: Kelas ini bertindak sebagai penghubung antara antarmuka pengguna dan logika penyimpanan data.
+
+
+
+#### ALUR
