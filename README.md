@@ -49,5 +49,7 @@ File utama yang mengintegrasikan modul data, view, dan process.
 
 
 
+### RUNNING PROGRAM
+Langkah terakhir yaitu pengujian code program,
 # KESIMPULAN
 
